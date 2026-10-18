@@ -1,0 +1,44 @@
+
+# Unreal Engine generated files
+Binaries/
+Intermediate/
+DerivedDataCache/
+Saved/
+
+# Visual Studio
+.vs/
+*.sln
+*.slnx
+*.VC.db
+*.VC.opendb
+*.VC.VC.opendb
+*.VC.db-shm
+*.VC.db-wal
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+ipch/
+obj/
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# Build artifacts
+*.pdb
+*.obj
+*.ilk
+*.exp
+*.lib
+*.log
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Unreal temporary files
+*.tmp
+*.bak
+*.autosave
